@@ -5,3 +5,5 @@ Saved/Config/Windows/
 Intermediate/CachedAssetRegistry.bin
 Saved/AutoScreenshot.png
 Saved/Logs/
+*.ini
+*.log
